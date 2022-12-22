@@ -10,6 +10,9 @@
 - [Transformer Memory as a Differentiable Search Index](http://arxiv.org/abs/2202.06991) [ICML'22].  
 
 # Industrial Track
-- [An end-to-end Generative Retrieval Method for Sponsored Search Engine --Decoding Efficiently into a Closed Target Domain](http://arxiv.org/abs/1902.00592) [KDD'21]  
+- [An end-to-end Generative Retrieval Method for Sponsored Search Engine --Decoding Efficiently into a Closed Target Domain](http://arxiv.org/abs/1902.00592) [KDD'21] 
+
+# Generative Retrieval via Tree-based Deep Retrieval
+- [Recommender Forest for Efficient Retrieval](https://openreview.net/forum?id=Yc4MjP2Mnob)[NeurIPS'22]
 
 
